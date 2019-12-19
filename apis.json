@@ -1,0 +1,66 @@
+{
+    "name": "CA Technologies",
+    "description": "Transform digital business with CA Technologies. Software and expertise to create a Modern Software Factory built on agility, automation, insights and security.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18906-ca-technologies.jpg",
+    "tags": [
+        "api service provider",
+        "deployment",
+        "gateway",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ca-technologies\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CA Technologies",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18906-ca-technologies.jpg",
+            "humanURL": "http:\/\/www.ca.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ca-technologies-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.ca.com\/?intcmp=footernav"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blogs.ca.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ca"
+        },
+        {
+            "type": "Email",
+            "url": "cainfo@ca.com"
+        },
+        {
+            "type": "Email",
+            "url": "CAEducation@ca.com"
+        },
+        {
+            "type": "Email",
+            "url": "Team-AgileBU-AgileSales@ca.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CAInc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ca.com"
+        }
+    ]
+}
