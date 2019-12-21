@@ -8,8 +8,8 @@
         "gateway",
         "have api"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ca-technologies\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -23,13 +23,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ca-technologies-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ca-technologies\/master\/ca-technologies-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ca-technologies\/master\/ca-technologies-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "http:\/\/blogs.ca.com\/?intcmp=footernav"
